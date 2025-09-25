@@ -1,6 +1,0 @@
-vless://b5d97a1b-8429-43b8-b164-83c34833938c@64.188.93.176:8444?type=tcp&encryption=none&security=reality&pbk=9i4EB-HrmyR7LJJzs2umW6K5sZ6mlLoXp3vZGYKZR3Y&fp=firefox&sni=m.vk.com&sid=65278d&spx=%2F&flow=xtls-rprx-vision#vktest
-vless://8b2517a0-a052-464d-a389-51f482c7f830@64.188.93.176:28169?type=tcp&encryption=none&security=reality&pbk=gUpK6J_W2LiHxpgl5LUtdeYF4RpcIVN6rw7Jzfq_GUk&fp=chrome&sni=vd419.okcdn.ru&sid=6278eec0d3a6a9&spx=%2F&flow=xtls-rprx-vision#vktest2
-trojan://sHG3iyRZyK@64.188.93.176:8443?type=grpc&serviceName=&authority=&security=reality&pbk=NK8MDvy-2xJiMkU11XcwfF4NSJGbMtEs5f4w7qEnDX8&fp=chrome&sni=sun6-21.userapi.com&sid=08&spx=%2F#vktest3
-trojan://avru7U2e3r@64.188.93.176:35928?type=grpc&serviceName=&authority=&security=reality&pbk=3emzdPvAQetukX5Qj2AeuTLuNVRji8rDPJkj5hZFBUE&fp=chrome&sni=csp.yandex.ru&sid=561833d6&spx=%2F#yndtest
-vless://02b8bbc2-5353-4230-a4fa-aad07b825d2c@64.188.93.176:25017?type=tcp&encryption=none&security=reality&pbk=uh-TGwloQZHhMuwshZRS9z9YenGUjdJkNoxIzs-tqkU&fp=android&sni=avatars.yandex.net&sid=b4&spx=%2F&flow=xtls-rprx-vision#yndtest2
-vless://3742fb37-1fd3-4e58-b0b9-2e0f7a9850a9@user132735325-qm63xjl6.tunnel.vk-apps.com:443/?type=ws&path=%2F&security=tls#vk-tunnel
